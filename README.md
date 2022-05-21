@@ -8,4 +8,4 @@
 
 ### 4 lesson - Углубленное изучение.
 
-Best CSS course by Sorax
+Best CSS course by Sorax.
