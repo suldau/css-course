@@ -71,3 +71,6 @@ a[href$='.mp3']::after {
 	font-size: 10px;
 	color: #888;
 }
+.text {
+	column-count: 4;
+}
